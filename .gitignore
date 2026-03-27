@@ -1,11 +1,6 @@
 # Dataset - Mengabaikan seluruh folder data beserta isinya
 data/
 
-# Model Checkpoints - Mengabaikan hasil save model (.pth atau .pt)
-*.pth
-*.pt
-ham10000_*.pth
-
 # Python & Environment
 __pycache__/
 *.py[cod]
